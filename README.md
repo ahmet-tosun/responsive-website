@@ -9,9 +9,9 @@ Bu repo, HTML5 ve CSS3 temellerini öğrenme sürecimde takip ettiğim çalışm
 ## 🚀 Nasıl Çalıştırılır?
 
 ```bash
-git clone https://github.com/sizin-kullanici-adiniz/frontend-fundamentals.git
+git clone https://github.com/ahmet-tosun/responsive-website.git
 
-cd frontend-fundamentals/03-CSS-Fundamentals
+cd responsive-website/ilgili-klasör
 
 open index.html  # Veya VS Code ile Live Server açın
 ```
