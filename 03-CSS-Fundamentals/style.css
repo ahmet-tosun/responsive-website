@@ -1,22 +1,16 @@
-h1,
-h2,
-h3,
-h4,
-p,
-li {
-  font-family: sans-serif;
-  color: #444;
+* {
+  /* border-top: 10px solid #1098ad; */
 }
 
-h1,
-h2,
-h3 {
-  color: #1098ad;
+body {
+  font-family: sans-serif;
+  color: #444;
+
+  border-top: 10px solid #1098ad;
 }
 
 h1 {
   font-size: 26px;
-
   text-transform: uppercase;
   font-style: italic;
 }
@@ -130,3 +124,29 @@ a:active {
   font-style: italic;
 }
 /* LVHA */
+
+/* Resolvng conflicts */
+#copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green;
+}
+
+/* nav a:link,
+nav p {
+  font-size: 18px;
+} */
+
+nav {
+  font-size: 18px;
+}
