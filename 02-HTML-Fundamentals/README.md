@@ -6,7 +6,10 @@ HTML5'in semantic etiketlerini (`<header>`, `<article>`, `<section>`) öğrenip 
 
 ## 📝 **İçindekiler**
 
-| Dosya Adı    | Açıklama     |
-| ------------ | ------------ |
-| `index.html` | Ana Sayfa    |
-| `blog.html`  | Blog Sayfası |
+| Dosya Adı     | Açıklama                     |
+| ------------- | ---------------------------- |
+| `index.html`  | Ana Sayfa                    |
+| `blog.html`   | Blog Sayfası                 |
+| `img/`        | Görsel klasörü               |
+| `context.txt` | İçerik metin dosyası         |
+| `README.md`   | Bu klasörün açıklama dosyası |
