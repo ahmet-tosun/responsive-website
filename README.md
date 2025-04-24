@@ -20,11 +20,12 @@ open index.html  # Veya VS Code ile Live Server açın
 
 ## 📂 Proje Yapısı
 
-| Klasör                                          | Açıklama                                                                                | Canlı Demo                                       |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [`01-Test`](/01-Test)                           | HTML ve CSS dosya yapısını denediğim ilk test projesi.                                  | [Demo](https://01-test-pi.vercel.app/)           |
-| [`02-HTML-Fundamentals`](/02-HTML-Fundamentals) | HTML etiketleri, yapılandırma, semantic elements konularının çalışıldığı bölüm.         | [Demo](https://02-html-fundamentals.vercel.app/) |
-| [`03-CSS-Fundamentals`](/03-CSS-Fundamentals)   | CSS temelleri, class-id seçiciler, metin stilleri gibi konuların işlendiği uygulamalar. |                                                  |
+| Klasör                                          | Açıklama                                                                                | Canlı Demo                                         |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [`01-Test`](/01-Test)                           | HTML ve CSS dosya yapısını denediğim ilk test projesi.                                  | [Demo](https://01-test-pi.vercel.app/)             |
+| [`02-HTML-Fundamentals`](/02-HTML-Fundamentals) | HTML etiketleri, yapılandırma, semantic elements konularının çalışıldığı bölüm.         | [Demo](https://02-html-fundamentals.vercel.app/)   |
+| [`03-CSS-Fundamentals`](/03-CSS-Fundamentals)   | CSS temelleri, class-id seçiciler, metin stilleri gibi konuların işlendiği uygulamalar. | [Demo](https://03-css-fundamentals-xi.vercel.app/) |
+| [`04-CSS-Layouts`](/04-CSS-Layouts)             | Floats, Flexbox ve CSS Grid ile sayfa düzenlemeleri.                                    | [Demo](https://04-css-layouts.vercel.app/)         |
 
 ---
 
@@ -50,13 +51,13 @@ Frontend geliştirmeye sağlam bir temel atmak, yazdığım her satırın ne iş
 
 Udemy üzerinden aşağıdaki kursları takip ediyorum:
 
-- Design and Develop a Killer Website with HTML5 and CSS3
-- Advanced CSS and Sass
-- The Complete JavaScript Course
-- Node.js, Express, MongoDB Bootcamp
-- The Ultimate React Course
-- Full Stack Crash Course
-- Sıfırdan Gerçek 100'e PHP Laravel
+- Build Responsive Real-World Websites with HTML and CSS
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+- The Complete JavaScript Course 2025: From Zero to Expert!
+- Node.js, Express, MongoDB & More: The Complete Bootcamp
+- The Ultimate React Course 2025: React, Next.js, Redux & More
+- Crash Course: Build a Full-Stack Web App in a Weekend!
+- Sıfırdan - Gerçek 100'e PHP, Laravel ve Daha Fazlası
 
 ---
 
